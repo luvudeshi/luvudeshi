@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Luv Udeshi 👋</h1>
 <p align="center">
-  <b>Turing Scholar (CS) @ UT Austin</b> · Hackathon builder · MIT PRIMES-USA alum
+  <b>Turing Scholar (CS) @ UT Austin</b>
 </p>
 
 <p align="center">
