@@ -13,7 +13,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 Computer Science student in the **Turing Scholars Honors** program at **UT Austin**
-- 🧮 Did theoretical CS research through **MIT PRIMES-USA** (2025) on circuit construction
+- 🧮 Did theoretical CS research through **MIT PRIMES-USA** (2025) on CC0 circuit upper bounds
 - 🏆 Recent wins: **1st Place Overall @ HackTX 2026**, **Best Use of Tiger Data @ HackUTA 2026**, **Best Biomedical Hack @ HackTJ 12.0**
 - 🛠️ I like building things people can play with: webcam games, interactive math tools and simulated markets
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/luv-udeshi/)
