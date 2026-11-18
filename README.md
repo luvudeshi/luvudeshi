@@ -20,7 +20,7 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| 💃 **[Dance Fantasy](https://github.com/luvudeshi/dance-fantasy)** · [play](https://dancefantasy.tech/) | 🏆 **1st Place Overall** + 🥇 **SerpApi track** at HackTX 2026 (695 hackers). Any song becomes an original dance routine, taught by a 3D dancer while your webcam scores every beat. | TypeScript · React · Three.js · MediaPipe · Python · Tiger Data |
+| 💃 **[Dance Fantasy](https://github.com/luvudeshi/dance-fantasy)** · [play](https://dancefantasy.tech/) | 🏆 **1st Place Overall** + 🥇 **SerpApi track** at HackTX 2026. Any song becomes an original dance routine, taught by a 3D dancer while your webcam scores every beat. | TypeScript · React · Three.js · MediaPipe · Python · Tiger Data |
 | 🥋 **[Odyssey Dojo](https://github.com/luvudeshi/odyssey-dojo)** · [play](https://odysseydojo.club) | 🥇 **Best Use of Tiger Data** at HackUTA 2026. A webcam fighting game that teaches real self-defense, one monster from Homer's *Odyssey* at a time. Solo or with a friend. | TypeScript · React Three Fiber · MediaPipe · Docker · Tiger Data |
 | 📈 **[Udeshi Markets](https://github.com/luvudeshi/udeshi-markets)** · [demo](https://udeshi-markets.vercel.app/) | A simulated electronic exchange: a deterministic C++20 limit order book, autonomous trading agents, and quant research tooling with a real-time trading terminal. | C++20 · Python (pybind11) · Next.js · PostgreSQL |
 | 📐 **[Graphualize](https://github.com/luvudeshi/graphualize)** · [try it](https://graphualize.vercel.app) | An in-browser graph theory workbench. Draw a graph and every property updates live; click one to see the proof drawn on the graph, or step through BFS, Dijkstra and Kruskal. | TypeScript · React · Cytoscape.js · Supabase |
