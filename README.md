@@ -13,7 +13,6 @@
 ### 🧑‍💻 About me
 
 - 🎓 Computer Science student in the **Turing Scholars Honors** program at **UT Austin**
-- 🧮 Did theoretical CS research through **MIT PRIMES-USA** (2025) on CC0 circuit upper bounds
 - 🛠️ I like building things people can play with: webcam games, interactive math tools and simulated markets
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/luv-udeshi/)
 
